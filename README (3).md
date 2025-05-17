@@ -105,7 +105,7 @@ Each data instance in the dataset contains:
 
 ![BLEU](image/bleu.png)
 
-![OOV](image/oov.png)
+
 
 ![Sentence Alignment](image/sentence_alignment.png)
 
